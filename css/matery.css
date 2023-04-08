@@ -2183,3 +2183,8 @@ footer .copy-right {
     width: 8px;
     height: 15px;
 }
+.reprint__type{
+   display: inline-block;
+   width: 100%;
+   overflow: hidden;
+}
